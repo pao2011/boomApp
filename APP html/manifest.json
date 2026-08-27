@@ -1,0 +1,21 @@
+{
+  "name": "BoomApp Pro Ultimate",
+  "short_name": "BoomApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#ff4757",
+  "description": "App interactiva para hacer explotar imágenes.",
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
